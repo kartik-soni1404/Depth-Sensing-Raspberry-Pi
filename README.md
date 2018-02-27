@@ -1,2 +1,2 @@
 # Depth-Sensing-Raspberry-Pi
-Depth sensing module for raspberry pi 
+I came up with depth sensing program in python
